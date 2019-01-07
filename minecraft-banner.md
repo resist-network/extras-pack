@@ -1,0 +1,1 @@
+/give @p minecraft:banner 1 0 {BlockEntityTag:{Base:15,Patterns:[{Pattern:gru,Color:0},{Pattern:mc,Color:1},{Pattern:mc,Color:0},{Pattern:flo,Color:1},{Pattern:mr,Color:1},{Pattern:mr,Color:0},{Pattern:mc,Color:1},{Pattern:flo,Color:1},{Pattern:mc,Color:7},{Pattern:flo,Color:1},{Pattern:mc,Color:0},{Pattern:tts,Color:0}]}}
