@@ -1,22 +1,26 @@
 Discord + Minecraft Ranks/Colors
 
 Operator - @Operator - <@&515837809513463810>
+Permission: rank.operator
 #aa0000
 \u00A74
 §4
 
 Technician - @Technician - <@&515837737962831883>
+Permission: rank.technician
 #ffaa00
 \u00A76
 §6
 
 Independent - @Independent - <@&515836486524993537>
+Permission: rank.independent
 #00AA00
 \u00A72
 §2
 
 
 Citizen - @Citizen - <@&532606848294060052>
+Permission: rank.citizen
 #55FF55
 \u00A7a
 §a
